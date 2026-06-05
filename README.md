@@ -2,7 +2,7 @@
 ### by Dhairya
 
 
-## About Carbsion
+## About The Keyboard
 
 **Agni is a custom 60% keyboard i have been working on for a few days. It is wired and connects to the laptop via USB-C. It also has an OLED on the top right corner to display data such as time, keyboard settings, etc.**
 
