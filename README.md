@@ -19,6 +19,7 @@
 
 `src/` - source files for PCB and CAD
 - `src/easyeda/` - EasyEDA source files
+  - `src/easyeda/keyboard plate/` - src files for the keybard plate PCB
 - `src/freecad/` - mechanical CAD sources
 `production/` - **for fabrication outputs**
 - `production/pcb/` - PCB fabrication files (Gerbers, BOM, Pick & Place)
