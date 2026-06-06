@@ -110,13 +110,12 @@
 - Step 2 - Upload the gerbers to JLCPCB or any other manufacturer and order it after changing the colour if u want to make sure that the thickness is 1.6mm (if u are using any other manufacturer if possible choose 1.5mm thickness but 1.6 too is fine)
 - ***NOTE -*** The gerbers in JLCPCB gerber viewer show just a single panel but that is bcs JLCPCB gerber viewer is shitty at showing slot regions however they are there and will be cut btw in the viewer if u zoom in u can see the space outline and a little gap btw the cutouts and the main board so yeah it shows as a single pannel due to JLCPCB's gerber viewer limitations. i checked in other gerber viewers and the holes are perfectly visible
 - - ***OTHER GERBER VIEWERS -***
-<img src="https://cdn.hackclub.com/019e9ba0-ede9-71d3-934f-7710117e75ba/image.png" alt="image"/><img width="1249" height="576" alt="image" src="https://github.com/user-attachments/assets/3c3e714b-0025-410e-a81d-ebeabad5e6e7" />
+<img src="https://cdn.hackclub.com/019e9ba0-ede9-71d3-934f-7710117e75ba/image.png" alt="image"/>
 - - ***JLCPCB GERBER VEIWER-***
   -  **2d -**
-<img src="https://cdn.hackclub.com/019e9ba2-2d9b-7b47-9245-ebba229ec75a/image.png" alt="image"/><img width="1910" height="837" alt="image" src="https://github.com/user-attachments/assets/b978de8c-fdb1-497e-aa37-db46dd10eaea" />
-
+<img src="https://cdn.hackclub.com/019e9ba2-2d9b-7b47-9245-ebba229ec75a/image.png" alt="image"/>
   -  **3d -**
-<img src="https://cdn.hackclub.com/019e9ba2-fe02-7c81-841b-a491804c0286/image.png" alt="image"/><img width="1910" height="972" alt="image" src="https://github.com/user-attachments/assets/67622e77-a9f5-4b74-8ce1-c6eedc49326d" />
+<img src="https://cdn.hackclub.com/019e9ba2-fe02-7c81-841b-a491804c0286/image.png" alt="image"/>
 
 - Step 3 - **NOW TIME TO ASSEMBLE!!!!**
 
