@@ -106,6 +106,17 @@
 | 18 | 1 | TYPE-C 16PIN 2MD(073) | USB1 | USB-C-SMD_TYPE-C-16PIN-2MD-073 | TYPE-C 16PIN 2MD(073) | SHOU HAN(首韩) | C2765186 | LCSC |
 
 
+
+## Total Cost - 
+
+***31.96(PCB) + 59.99(components) + 14.93 (Switches) + 20.14 (Key Caps, Stabilizers, Soldering Iron) + 40 (TAX + Shipping of 3d printed case from printing legion)
+= 167.02 USD
+U might be wondering why are is the TAX soooo high well thats cause India imposes heavy import tax on chinese goods ( 39- 40% on total value including shipping) so yeah.***
+
+
+**Yeah this was expensive but would be like 30-40 USDD more expensive if i chose PCBA**
+
+
 ## License 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
