@@ -88,6 +88,7 @@
 
 ***Here are the steps to make this for yourself-***
 
+- - ***ORDERING THE PCB***
 
 - Step 1 - Basically Just Clone or downlaod this repo from github. U can do this by either going to the code button on this repo page and pressing download Zip or u can clone this Repo Or you can go to the Releases on this repo and download the Zip File there too (the fastest way to download is like just going to code and pressing download Zip Or by cloning the Repo.)
 
@@ -100,13 +101,36 @@
 - Step 8 - Upload the CPL and BOM files whe JLCPCB asks u to.
 - Step 9 - Recheck the position of all components (i faced no problem with this as all components were in the correct place but i have faced issues with the placement in one of my other projects i made in KiCAD)
 - Step 10 - Add to cart and order the PCB!! **(if you are Hand soldering the components you will need to buy them from some other place i am using LCSC as they have cheap components and a very vast library of components and also automated finding if u upload the BOM which is like really helpfull since this project has a lot of components)**
+
 - Step 11 - If you dont have a 3D PRINTER jlcpcb has a 3d printing service too caled JLC3DP so u can upload the files for the case there and get it printed too but if u have a 3d printer you can just print it youreslf and save a lot of money.
-- Step 12 - WAIT WAIT WAIT for your parts to be delhivered
-- Step 13 - Once you have all the parts (PCB, CASE and the componets if u are hand soldering the components) place the PCB in the Case (u will need to first hand solder the components if u are handsoldering it and if u chose economic PCBA then u will have to hand solder the switches too first)
-- Step 14 - Then use a cable to connect the OLED display to the pin headers for it and make sure it is secured properly. Then fit the OLED on the gap on the top part of the case which has the cutout for the OLED. (u might have to like get creative to fix the Oled to the hole but yeah i will just use a bit of hot glue and it should be fine or i might use the spacers that come with the screen if the spacers are tall enough)
-- Step 15 - Once the PCB is secured inside the case glue Top Part of the Case shut (top header which has the screen cutout).
-- Step 16 - Attatch the Keycaps on the switches...... and then --->
--  Step 17 - BOOM  THERE YOU GO U HAVE IT MADE!!!
+
+- - ***ORDERING THE KEYBOARD PLATE***
+
+- Step 1 - In the `production/keyboard plate pcb/` folder u will find the gerbers for the Keyboard Plate
+- Step 2 - Upload the gerbers to JLCPCB or any other manufacturer and order it after changing the colour if u want to make sure that the thickness is 1.6mm (if u are using any other manufacturer if possible choose 1.5mm thickness but 1.6 too is fine)
+- ***NOTE -*** The gerbers in JLCPCB gerber viewer show just a single panel but that is bcs JLCPCB gerber viewer is shitty at showing slot regions however they are there and will be cut btw in the viewer if u zoom in u can see the space outline and a little gap btw the cutouts and the main board so yeah it shows as a single pannel due to JLCPCB's gerber viewer limitations. i checked in other gerber viewers and the holes are perfectly visible
+- - ***OTHER GERBER VIEWERS -***
+<img src="https://cdn.hackclub.com/019e9ba0-ede9-71d3-934f-7710117e75ba/image.png" alt="image"/><img width="1249" height="576" alt="image" src="https://github.com/user-attachments/assets/3c3e714b-0025-410e-a81d-ebeabad5e6e7" />
+- - ***JLCPCB GERBER VEIWER-***
+  -  **2d -**
+<img src="https://cdn.hackclub.com/019e9ba2-2d9b-7b47-9245-ebba229ec75a/image.png" alt="image"/><img width="1910" height="837" alt="image" src="https://github.com/user-attachments/assets/b978de8c-fdb1-497e-aa37-db46dd10eaea" />
+
+  -  **3d -**
+<img src="https://cdn.hackclub.com/019e9ba2-fe02-7c81-841b-a491804c0286/image.png" alt="image"/><img width="1910" height="972" alt="image" src="https://github.com/user-attachments/assets/67622e77-a9f5-4b74-8ce1-c6eedc49326d" />
+
+- Step 3 - **NOW TIME TO ASSEMBLE!!!!**
+
+
+- - ***ASSEMBLY***
+ 
+
+- Step 1 - WAIT WAIT WAIT for your parts to be delivered
+- Step 2 - Once you have all the parts (PCB, CASE and the componets if u are hand soldering the components) place the PCB in the Case (u will need to first hand solder the components if u are handsoldering it and if u chose economic PCBA then u will have to hand solder the switches too first)
+- Step 3 - Now put the keyboard plate in the Case too and screw in the screws into the mounting holes in the case.
+- Step 4 - Then use a cable to connect the OLED display to the pin headers for it on the main PCB and make sure it is secured properly. Then fit the OLED on the gap on the top part of the case which has the cutout for the OLED. (u might have to like get creative to fix the Oled to the hole but yeah i will just use a bit of hot glue and it should be fine or i might use the spacers that come with the screen if the spacers are tall enough)
+- Step 5 - Once the PCB is secured inside the case glue Top Part of the Case shut (top header which has the screen cutout).
+- Step 6 - Attatch the Keycaps on the switches...... and then --->
+- Step 7 - **BOOM  THERE YOU GO U HAVE IT MADE!!!**
 
 
 ## BOM- Bill Of Materials
