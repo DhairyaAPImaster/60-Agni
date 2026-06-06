@@ -83,6 +83,32 @@
 
 
 
+## How to replicate it (making it yourself) 
+
+
+***Here are the steps to make this for yourself-***
+
+
+- Step 1 - Basically Just Clone or downlaod this repo from github. U can do this by either going to the code button on this repo page and pressing download Zip or u can clone this Repo Or you can go to the Releases on this repo and download the Zip File there too (the fastest way to download is like just going to code and pressing download Zip Or by cloning the Repo.)
+
+- Step 2 - In the the production folder you will find the CAD and PCB folders.
+- Step 3 - The CAD folder contains all the 3d Pritnable files for the case of the keyboard. If you wish to u can make any changes to the design or make your own design and use that instead.
+- Step 4 - The PCB folder contains the Gerbers, BOM , and CPL files. These are the files that allow you to get the PCB manufactured from JLCPCB (im using JLCPCB) or any other PCB manufacturer(like PCBway or others).
+- Step 5 - Upload the gerbers zip file in JLCPCB "Place order / get instant quote" Page (u will need to sign up to order but can get a quote without signing up)
+- Step 6 - Change the colour of the PCB in the options JLC gives (if u use JLC PCB most of the times canging colours does not add any charge acc to what i know)
+- Step 7 - Select PCBA if u want JLCPCB to assemble the PCB for you but ngl soldering all components by hand is cheaper and saves u a ton of money and also is pretty fun (im hand soldering all components)
+- Step 8 - Upload the CPL and BOM files whe JLCPCB asks u to.
+- Step 9 - Recheck the position of all components (i faced no problem with this as all components were in the correct place but i have faced issues with the placement in one of my other projects i made in KiCAD)
+- Step 10 - Add to cart and order the PCB!! **(if you are Hand soldering the components you will need to buy them from some other place i am using LCSC as they have cheap components and a very vast library of components and also automated finding if u upload the BOM which is like really helpfull since this project has a lot of components)**
+- Step 11 - If you dont have a 3D PRINTER jlcpcb has a 3d printing service too caled JLC3DP so u can upload the files for the case there and get it printed too but if u have a 3d printer you can just print it youreslf and save a lot of money.
+- Step 12 - WAIT WAIT WAIT for your parts to be delhivered
+- Step 13 - Once you have all the parts (PCB, CASE and the componets if u are hand soldering the components) place the PCB in the Case (u will need to first hand solder the components if u are handsoldering it and if u chose economic PCBA then u will have to hand solder the switches too first)
+- Step 14 - Then use a cable to connect the OLED display to the pin headers for it and make sure it is secured properly. Then fit the OLED on the gap on the top part of the case which has the cutout for the OLED. (u might have to like get creative to fix the Oled to the hole but yeah i will just use a bit of hot glue and it should be fine or i might use the spacers that come with the screen if the spacers are tall enough)
+- Step 15 - Once the PCB is secured inside the case glue Top Part of the Case shut (top header which has the screen cutout).
+- Step 16 - Attatch the Keycaps on the switches...... and then --->
+-  Step 17 - BOOM  THERE YOU GO U HAVE IT MADE!!!
+
+
 ## BOM- Bill Of Materials
 | No. | Quantity | Comment | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier Part | Supplier |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
