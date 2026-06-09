@@ -25,8 +25,8 @@
 - `production/pcb/` - PCB fabrication files (Gerbers, BOM, Pick & Place)
 - `production/cad/` - 3D printing files
 - `production/keyboard plate pcb/` -  Plate PCB Gerbers 
-`pics/` - images used in the README and documentation
-`Electronic cad/` - 3d model of PCB from EasyEDA 
+- `pics/` - images used in the README and documentation
+- `Electronic cad/` - 3d model of PCB from EasyEDA 
 
 
 ## Schematic
