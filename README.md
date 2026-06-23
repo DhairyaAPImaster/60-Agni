@@ -103,7 +103,7 @@
 - Step 7 - Select PCBA if u want JLCPCB to assemble the PCB for you but ngl soldering all components by hand is cheaper and saves u a ton of money and also is pretty fun (im hand soldering all components)
 - Step 8 - Upload the CPL and BOM files whe JLCPCB asks u to.
 - Step 9 - Recheck the position of all components (i faced no problem with this as all components were in the correct place but i have faced issues with the placement in one of my other projects i made in KiCAD)
-- Step 10 - Add to cart and order the PCB!! **(if you are Hand soldering the components you will need to buy them from some other place i am using LCSC as they have cheap components and a very vast library of components and also automated finding if u upload the BOM which is like really helpfull since this project has a lot of components)**
+- Step 10 - Add to cart and order the PCB!! **(if you are Hand soldering the components you will need to buy them from some other place i am using Robu.in as they have cheap components and a very vast library of components and they are cheaper than LCSC in india)**
 
 - Step 11 - If you dont have a 3D PRINTER jlcpcb has a 3d printing service too caled JLC3DP so u can upload the files for the case there and get it printed too but if u have a 3d printer you can just print it youreslf and save a lot of money.
 
@@ -180,12 +180,11 @@
 
 ## Total Cost - 
 
-***31.96(PCB) + 59.99(components) + 14.93 (Switches) + 20.14 (Key Caps, Stabilizers, Soldering Iron) + 40 (TAX + Shipping of 3d printed case from printing legion)
-= 167.02 USD
-U might be wondering why are is the TAX soooo high well thats cause India imposes heavy import tax on chinese goods ( 39- 40% on total value including shipping) so yeah.***
+***32(PCB+Plate+shipping from jlcpcb) + 28.73(components) + 15.04 (Switches) + 20.3 (Key Caps, Stabilizers, Soldering Iron) + 12.8(TAX)
+= 109.87 USD***
 
 
-**Yeah this was expensive but would be like 30-40 USDD more expensive if i chose PCBA**
+**Yeah this was expensive but would be like WAYYYYYY more expensive if i chose PCBA**
 
 
 ## License 
