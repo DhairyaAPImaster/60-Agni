@@ -34,6 +34,7 @@
 - `production/cad/` - 3D printing files
 - `production/keyboard plate pcb/` -  Plate PCB Gerbers 
 - `pics/` - images used in the README and documentation
+- `firmware` - KMK firmware for the keyboard
 
 
 ## Schematic
