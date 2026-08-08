@@ -1,0 +1,28 @@
+#,Component,Qty,Unit Price (USD),Subtotal (USD),Source
+1,Gateron G Pro 3.0 Black Switches,7,$1.99,$13.90,Meckeys
+2,SK6812 MINI-E RGB LEDs,200 pcs (1 pack),$0.091/LED,$18.23,Desertcart
+3,ZORBES 130-Key Topographic Keycap Set,1,$10.50,$10.50,Amazon
+4,Durock Plate Mount Stabilizers V3 (6.25U + 4x2U),1 set,$3.99,$3.99,GenesisPC
+5,Raspberry Pi RP2040 MCU,1,$0.67,$0.67,Robu
+6,Winbond W25Q16JWSNIQ 16-Mbit SPI NOR Flash,1,$3.31,$3.31,Robu
+7,YXC YSX321SL 12 MHz Crystal 12 pF,1,$0.21,$0.21,Robu
+8,AMS1117-3.3V Voltage Regulator,2,$0.095,$0.19,Robu
+9,USB-C 6-Pin Female SMD Connector,2,$0.63,$1.26,Robu
+10,0805 5.1 kOhm Resistor,25,$0.0049,$0.12,Robu
+11,1N4148W SOD-123 Switching Diode,61,$0.0150,$0.92,Robu
+12,6x6 mm SMD Tactile Switch,5,$0.0315,$0.16,Robu
+13,0805 100 nF X7R Capacitor,75,$0.0090,$0.68,Robu
+14,0805 15 pF C0G Capacitor,37,$0.0032,$0.12,Robu
+15,0805 10 uF X7R Capacitor,5,$0.0275,$0.14,Robu
+16,0805 4.7 kOhm Resistor,30,$0.0039,$0.12,Robu
+17,0805 5.1 kOhm Resistor,10,$0.0134,$0.13,Robu
+18,0805 10 kOhm Resistor,3,$0.0368,$0.11,Robu
+19,0805 100 Ohm Resistor,61,$0.0086,$0.53,Robu
+20,0805 27 Ohm Resistor,60,$0.0018,$0.11,Robu
+21,0.91" 128x32 I2C OLED Display,1,$1.59,$1.59,Robu
+22,Agni Keyboard PCB,5,$3.62,$18.10,JLCPCB
+23,Agni Keyboard Plate PCB,5,$3.00,$15.00,JLCPCB
+,,,,,
+,,,,Components Subtotal,$90.09
+,,,,Tax,$19.78
+,,,,Total,$109.87
