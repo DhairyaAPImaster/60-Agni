@@ -142,38 +142,36 @@
 
 ## BOM- Bill Of Materials
 
-
-| No. | Qty | Comment / Part | Designator | Footprint | Value | Manufacturer Part | Manufacturer | Supplier |
-|:--:|:--:|---|---|---|---|---|---|---|
-| 1 | 75 | 100nF Capacitor | C1, C70-C143 | C0805 | 100nF | - | - | - |
-| 2 | 2 | 15pF Capacitor | C65, C66 | C0805 | 15pF | - | - | - |
-| 3 | 2 | 10uF Capacitor | C67, C68 | C0805 | 10uF | - | - | - |
-| 4 | 61 | 1N4148W-7-F Diode | D1-D61 | SOD-123_L2.7-W1.6-LS3.7-RD-1 | 1N4148W-7-F | - | DIODES (美台) | C83528 |
-| 5 | 61 | SK6812MINI-E RGB LED | LED1-LED61 | LED-SMD_4P-L3.2-W2.8-LS5.9_SK6812MINI-E | - | SK6812MINI-E | 欧思科光电 | C5149201 |
-| 6 | 1 | OLED Header | OLED1 | HDR-TH_4P-P2.00-V-M | - | PZ200V-11-04P | XFCN (兴飞) | C541858 |
-| 7 | 2 | 4.7K Resistor | R1, R72 | R0805 | 4.7K | - | - | - |
-| 8 | 2 | 5.1K Resistor | R65, R66 | R0805 | 5.1K | - | - | - |
-| 9 | 2 | 27Ω Resistor | R67, R68 | R0805 | 27Ω | - | - | - |
-| 10 | 2 | 10K Resistor | R70, R71 | R0805 | 10K | - | - | - |
-| 11 | 61 | 100Ω Resistor | R73-R133 | R0805 | 100Ω | - | - | - |
-| 12 | 2 | Reset / Boot Push Button | SW3, SW4 | SW-SMD_4P-L6.0-W6.0-P4.50-LS9.0_H5.0 | KH-6X6X5H-STM | KH-6X6X5H-STM | Kinghelm (金航标) | C2837531 |
-| 13 | 61 | Kailh MX Hot Swap Socket | SW5-SW65 | KEY-TH_CPG1511F01S0X | CPG151101S03 | CPG151101S03 | Kailh (凯华) | C404350 |
-| 14 | 1 | RP2040 MCU | U2 | LQFN-56_L7.0-W7.0-P0.4-EP | RP2040 | RP2040 | Raspberry Pi | C2040 |
-| 15 | 1 | SPI Flash | U3 | SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL | W25Q16JVSSIQ | W25Q16JVSSIQ | Winbond (华邦) | C131025 |
-| 16 | 1 | 12MHz Crystal | U4 | CRYSTAL-SMD_4P-L3.2-W2.5-BL | 12MHz | ABM8-272-T3 | Abracon | C20625731 |
-| 17 | 1 | 3.3V Voltage Regulator | U5 | SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR | AMS1117-3.3 | AMS1117-3.3 | GOODWORK (固得沃克) | C6067465 |
-| 18 | 1 | USB Type-C Connector | USB1 | USB-C-SMD_TYPE-C-16PIN-2MD-073 | TYPE-C 16PIN 2MD(073) | TYPE-C 16PIN 2MD(073) | SHOU HAN (首韩) | C2765186 |
-| 19 | 7 | Gateron G Switches (Pack of 10) | - | - | - | - | - | Meckeys |
-| 20 | 1 | 60% Keycap Set | - | - | - | - | - | Amazon |
-| 21 | 1 | Soldering Iron | - | - | - | - | - | Amazon |
-| 22 | 1 | Plate Mount Stabilizer Set | - | - | - | - | - | GenesisPC |
-| 23 | 1 | PCB (Main Keyboard PCB + Plate) | - | - | - | - | - | JLCPCB |
-
+| # | Component | Qty | Unit Price (USD) | Subtotal (USD) | Source |
+|---:|---|---:|---:|---:|---|
+| 1 | Gateron G Pro 3.0 Black Switches | 7 | $1.99 | $13.90 | Meckeys |
+| 2 | SK6812 MINI-E RGB LEDs | 200 pcs (1 pack) | $0.091/LED | $18.23 | Desertcart |
+| 3 | ZORBES 130-Key Topographic Keycap Set | 1 | $10.50 | $10.50 | Amazon |
+| 4 | Durock Plate Mount Stabilizers V3 (6.25U + 4×2U) | 1 set | $3.99 | $3.99 | GenesisPC |
+| 5 | Raspberry Pi RP2040 MCU | 1 | $0.67 | $0.67 | Robu |
+| 6 | Winbond W25Q16JWSNIQ 16-Mbit SPI NOR Flash | 1 | $3.31 | $3.31 | Robu |
+| 7 | YXC YSX321SL 12 MHz Crystal, 12 pF | 1 | $0.21 | $0.21 | Robu |
+| 8 | AMS1117-3.3V Voltage Regulator | 2 | $0.095 | $0.19 | Robu |
+| 9 | USB-C 6-Pin Female SMD Connector | 2 | $0.63 | $1.26 | Robu |
+| 10 | 0805 5.1 kΩ Resistor | 25 | $0.0049 | $0.12 | Robu |
+| 11 | 1N4148W SOD-123 Switching Diode | 61 | $0.0150 | $0.92 | Robu |
+| 12 | 6×6 mm SMD Tactile Switch | 5 | $0.0315 | $0.16 | Robu |
+| 13 | 0805 100 nF X7R Capacitor | 75 | $0.0090 | $0.68 | Robu |
+| 14 | 0805 15 pF C0G Capacitor | 37 | $0.0032 | $0.12 | Robu |
+| 15 | 0805 10 µF X7R Capacitor | 5 | $0.0275 | $0.14 | Robu |
+| 16 | 0805 4.7 kΩ Resistor | 30 | $0.0039 | $0.12 | Robu |
+| 17 | 0805 5.1 kΩ Resistor | 10 | $0.0134 | $0.13 | Robu |
+| 18 | 0805 10 kΩ Resistor | 3 | $0.0368 | $0.11 | Robu |
+| 19 | 0805 100 Ω Resistor | 61 | $0.0086 | $0.53 | Robu |
+| 20 | 0805 27 Ω Resistor | 60 | $0.0018 | $0.11 | Robu |
+| 21 | 0.91" 128×32 I²C OLED Display | 1 | $1.59 | $1.59 | Robu |
+| 22 | Agni Keyboard PCB | 5 | $3.62 | $18.10 | JLCPCB |
+| 23 | Agni Keyboard Plate PCB | 5 | $3.00 | $15.00 | JLCPCB |
 
 
 ## Total Cost - 
 
-***32(PCB+Plate+shipping from jlcpcb) + 28.73(components) + 15.04 (Switches) + 20.3 (Key Caps, Stabilizers, Soldering Iron) + 12.8(TAX)
+***19.78USD <--> Tax + 90.09USD <--> Components (Passives+PCB's+Shipping+Switches+Stabalisers+Keycaps)
 = 109.87 USD***
 
 
