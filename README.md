@@ -205,3 +205,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 - ***FreeCAD*** - For designing the Case
 - ***JLCPCB*** - Will be using to manufacture the PCB
 - **[APX HUB by @Gabouin](https://github.com/Gabouin/APX-USB-HUB)** - Readme template
+- **[INERTIA-102](https://github.com/Gusus169/INERTIA-102-The-Mechanical-Keyboard)** - Image formating
