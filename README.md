@@ -37,25 +37,38 @@
 - `firmware` - KMK firmware for the keyboard
 
 
-## Schematic
-<img width="632" height="403" alt="image" src="https://github.com/user-attachments/assets/3fb0678b-10f9-4dc3-aec9-3ae926a29cf6" />
 
-<img width="322" height="265" alt="image" src="https://github.com/user-attachments/assets/2ad9c0a6-1501-45e6-a3aa-ee1c7be764d0" />
-
-<img width="700" height="194" alt="image" src="https://github.com/user-attachments/assets/ad948597-ea5a-4027-aca0-a1ab8234e2df" />
+## PCB
+### Schematic & Routing
 
 
-## PCB 
-<img width="944" height="412" alt="image" src="https://github.com/user-attachments/assets/c9b152b0-44d9-452e-a932-dedd2f1ee436" />
+<table>
+  <tr align="center">
+    <td><img src="https://github.com/user-attachments/assets/b8373c54-8b4d-447c-9030-a490d280065e" width="3000" alt="schematic1"></td>
+  </tr>
+  
+<table>  
+  </tr>
+  
+  <td align="center">
+    <center><b> The Switches </b></center> 
+    <img src="https://github.com/user-attachments/assets/08171371-c653-4dd1-8574-386e1589639b" width="500" alt="schematic1">
+    <center><b> Front Layer Routing </b></center>  
+    <img src="https://github.com/user-attachments/assets/9815128c-d353-45f5-a5b5-4423fd33db91" width="1000" alt="PCB front">  
+  <td align="center">
+     <center><b> The RGBs </b></center> 
+     <img src="https://github.com/user-attachments/assets/dc78b738-6e8c-487d-a492-112369d29792" width="500" alt="schematic1">
+     <center><b> Back Layer Routing </b></center>  
+     <img src="https://github.com/user-attachments/assets/e752917d-6c10-4dd2-a1b9-8def7d42fdf6" width="1000" alt="PCB back">
+  
+  </tr>
+  <table align="center">
+  <tr align="center">
+  <td><img src="https://github.com/user-attachments/assets/e4c9e635-907b-41a7-b0ec-ed0d222508d4" width="400" alt="MCU zoom"></td>
+  </tr>
+  </table>
+</table>
 
-<img width="710" height="422" alt="image" src="https://github.com/user-attachments/assets/5d9ce43c-7ac1-464b-a893-8c8dd81270b7" />
-
-<img width="552" height="347" alt="Screenshot 2026-06-05 220443" src="https://github.com/user-attachments/assets/0ff191ba-d9b7-405c-90ea-077fcfa34334" />
-<img width="572" height="297" alt="Screenshot 2026-06-05 220346" src="https://github.com/user-attachments/assets/e81f929a-d488-4ba7-86f7-6c18594b3a71" />
-<img width="639" height="299" alt="Screenshot 2026-06-05 220334" src="https://github.com/user-attachments/assets/a3c18fa1-33bf-43ca-b4e5-15562fd8b163" />
-<img width="259" height="232" alt="Screenshot 2026-06-04 170705" src="https://github.com/user-attachments/assets/048edcca-d89f-4640-b854-27aef8701f37" />
-<img width="959" height="500" alt="Screenshot 2026-06-05 223629" src="https://github.com/user-attachments/assets/299e8c96-8b86-4b02-837c-3f506c52ba1f" />
-<img width="650" height="305" alt="Screenshot 2026-06-05 223526" src="https://github.com/user-attachments/assets/44c8de14-adc5-48a0-8203-f3ffaa8a4a23" />
 
 
 
