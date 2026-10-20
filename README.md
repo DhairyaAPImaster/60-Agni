@@ -22,21 +22,6 @@
 - **Individual RGB lights for each Key** - So i added individual LED lights under each switch to give it better control to the lighting.
 
 
-## Repo Structure 
-
-- `src/` - source files for PCB and CAD
-- `src/easyeda/` - EasyEDA source files
-  - `src/easyeda/keyboard plate/` - src files for the keybard plate PCB
-- `src/freecad/` - mechanical CAD sources
-`production/` - **for fabrication outputs**
-- `production/Keyboard plate PCB/` - PCB fabrication files for the keyboard plate
-- `production/Main Keyboard PCB/` - PCB fabrication files for main keyboard PCB  (Gerbers, BOM, Pick & Place)
-- `production/cad/` - 3D printing files
-- `production/keyboard plate pcb/` -  Plate PCB Gerbers 
-- `pics/` - images used in the README and documentation
-- `firmware` - KMK firmware for the keyboard
-
-
 
 ## PCB
 ### Schematic & Routing
