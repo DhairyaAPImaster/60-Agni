@@ -72,17 +72,21 @@
 
 
 
-## CAD
+## Renders
 
-<img width="959" height="539" alt="image" src="https://github.com/user-attachments/assets/83b73c1b-093d-4017-9541-a2dab579d4b4" />
-
-<img width="562" height="290" alt="image" src="https://github.com/user-attachments/assets/86726fd7-fff2-4026-bca5-511899e38ed7" />
-
-
-
-- ***Required 3d Printed part***
-
-<img width="586" height="289" alt="image" src="https://github.com/user-attachments/assets/7a216c62-20f0-40ac-a93f-ce510c443c80" />
+<table>
+  </tr>
+    <td><img src="https://github.com/user-attachments/assets/83b73c1b-093d-4017-9541-a2dab579d4b4" width="500" alt="Render25"></td>
+    <td><img src="https://github.com/user-attachments/assets/86726fd7-fff2-4026-bca5-511899e38ed7" width="500" alt="Render24"></td>
+    <td><img src="https://github.com/user-attachments/assets/7a216c62-20f0-40ac-a93f-ce510c443c80" width="500" alt="Render26"></td>
+  </tr>
+  </tr>
+    <td><img src="https://github.com/user-attachments/assets/ca8aa95b-fc8a-49e7-8ba8-890c046fb755" width="500" alt="Render23"></td>
+    <td><img src="https://github.com/user-attachments/assets/03d7c890-9ce9-44a0-b2d9-a6fcaa4b3285" width="500" alt="Render22"></td>
+    <td><img src="https://github.com/user-attachments/assets/485d4f06-0681-4f18-a14b-7d370bd21791" width="500" alt="Render17"></td>   
+  </tr>
+   
+</table>
 
 
 
