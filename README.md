@@ -120,7 +120,7 @@
 
 
 - ***OTHER GERBER VIEWERS -***
-<img src="https://cdn.hackclub.com/019e9ba0-ede9-71d3-934f-7710117e75ba/image.png" alt="image"/>
+<img src="https://cdn.hackclub.com/019e9ba0-ede9-71d3-934f-7710117e75ba/image.png" width="500" alt="image"/>
 
 <br/>
 <br/>
@@ -131,13 +131,13 @@
 <br/>
 
   -  **2d -**
-<img src="https://cdn.hackclub.com/019e9ba2-2d9b-7b47-9245-ebba229ec75a/image.png" alt="image"/>
+<img src="https://cdn.hackclub.com/019e9ba2-2d9b-7b47-9245-ebba229ec75a/image.png" width="500" alt="image"/>
 
 <br/>
 <br/>
 
   -  **3d -**
-<img src="https://cdn.hackclub.com/019e9ba2-fe02-7c81-841b-a491804c0286/image.png" alt="image"/>
+<img src="https://cdn.hackclub.com/019e9ba2-fe02-7c81-841b-a491804c0286/image.png" width="500" alt="image"/>
 
 
 
@@ -157,8 +157,6 @@
 - Step 6 - Attatch the Keycaps on the switches...... and then --->
 - Step 7 - **BOOM  THERE YOU GO U HAVE IT MADE!!!**
 
-
-## BOM- Bill Of Materials
 
 ## BOM - Bill Of Materials
 
@@ -190,12 +188,6 @@
 | | **Components Subtotal** | | | **$90.09** | |
 | | **Tax** | | | **$19.78** | |
 | | **Grand Total** | | | **$109.87** | |
-
-## Total Cost - 
-
-***19.78USD <--> Tax + 90.09USD <--> Components (Passives+PCB's+Shipping+Switches+Stabalisers+Keycaps)
-= 109.87 USD***
-
 
 **Yeah this was expensive but would be like WAYYYYYY more expensive if i chose PCBA**
 
